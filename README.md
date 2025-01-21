@@ -1,6 +1,6 @@
 # Mock Landing Page
 This project is meant to show some of the skills I have developed in HTML and CSS.
-The landing page is for a nonexisting budget tracking application called ** BreadSheet **
+The landing page is for a nonexisting budget tracking application called **BreadSheet**
 
 ## Things To Know
 - This page is a mockup so the links are not functional, but can easily be implemented into a useable project from this point. 
